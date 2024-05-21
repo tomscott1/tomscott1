@@ -27,7 +27,7 @@ Tech I am familiar with or currently upskilling in:
 |------------------------------------------|--------------------------------------|--------------------------------------|
 | 🔄 GraphQL                               | ☁️ AWS                               | 🗂️ Git                               |
 | 🌐 REST                                  | ☁️ Azure                             | 🛠️ Atlassian Suite (Jira, Bitbucket) |
-|                                          | 🐳 Docker                            | 📊 Alteryx                           |
+| 🐇 RabbitMQ                              | 🐳 Docker                            | 📊 Alteryx                           |
 |                                          | ☸️ Kubernetes                        | 📊 Tableau                           |
 |                                          | 🖥️ Linux                             | 📈 Excel                             |
 |                                          | ☁️ Vercel                            |                                      |
