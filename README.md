@@ -23,7 +23,7 @@ Tech I am familiar with or currently upskilling in:
 | 🌐 Next.js                               |                                      |                                      |
 | 🛠️ ShadCN UI components                  |                                      |                                      |
 
-| Communication (API)                      | DevOps and Cloud                     | Others                               |
+| Communication / API                     | DevOps and Cloud                     | Others                               |
 |------------------------------------------|--------------------------------------|--------------------------------------|
 | 🔄 GraphQL                               | ☁️ AWS                               | 🗂️ Git                               |
 | 🌐 REST                                  | ☁️ Azure                             | 🛠️ Atlassian Suite (Jira, Bitbucket) |
